@@ -1,0 +1,6 @@
+vendor
+.vagrant
+*~
+.DS_Store
+.idea
+

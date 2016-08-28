@@ -1,0 +1,17 @@
+{
+    "name": "tsitrone/deploytest",
+    "description": "This repo is only used for testing a build an deploy workflow with jenkins.",
+    "type": "project",
+    "require": {
+        "phing/phing": "^2.14"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Ralf Schneider",
+            "email": "ralf.schneider@tsitrone.de"
+        }
+    ]
+}
